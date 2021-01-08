@@ -1,0 +1,1 @@
+Projekt jest kompendium wiedzy na temat reptilian ma agregować najważniejsze informacje na temat reptilian: zdarzenia, które spowodowali; ich państwa; ich rasy; nekropolie oraz arcywrogów. Zawiera ponadto mechanizm upamietniania poleglych panstw i tworzenia nowych arcywrogow.
