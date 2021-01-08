@@ -1,2 +1,1 @@
-CALL nowa_nazwa_dla_arcywrogow
--- wywolanie procedury pokazuyjacej calosc tabeli arcywrogow
+CALL 2_proba((0.01))

@@ -1,0 +1,1 @@
+- procedura przedstawia zestawienie agresywnosci, nazw ras i liczby jej ofiar smiertelnych(pomnozone przez podany parametr)

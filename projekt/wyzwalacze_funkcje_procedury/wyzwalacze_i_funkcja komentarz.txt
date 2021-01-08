@@ -1,0 +1,7 @@
+Kompilator sql nie toleruje komentarzy
+ nekropolia -- ten wyzwalacz uruchamia sie kiedy liczebnosc jakiegos panstwa bedzie wynosila zero, to znaczy ze panstwo wymarlo i zostaną umieszczone rekordy w tabeli nekropolia
+ 
+nowy arcywrog - -- Ten wyzwalacz sprawdza czy panstwo wywolujace nowe zdarzenie nie przekroczylo miliona zabitych reptlian i nie jest arcywrogem, jesli tak jest zapisywane w tabeli z reptilianskimi wrogami
+-- do poprawnego dzialanie tego wyzwalacza konieczna jest zapisana w mysql workbench funkcja czy_zabito_powyzej_1_miliona jak nie jest zapisana w projekcie bazy dancyh wyzwalacz nie moze sie aktywowac
+
+--czy_zabito_powyzej_1_miliona zwraca wynik testu czy dana wejsciowa jest wieksza lub rowna od miliona
